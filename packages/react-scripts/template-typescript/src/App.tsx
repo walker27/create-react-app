@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React with wa1k3r27's typescript template
           </a>
         </header>
       </div>
